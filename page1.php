@@ -8,7 +8,7 @@
         <script src="function.js"></script>
     </head>
     <body>
-        <h1>INDEX</h1>
+        <h1>PAGE 1</h1>
         <form name="form" method="post" action="get_form.php">
             <p>
                 ประเภทรถ : 
